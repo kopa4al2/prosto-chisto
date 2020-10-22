@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.5f361e03.chunk.css",
-    "main.js": "/main/static/js/main.63b34835.chunk.js",
-    "main.js.map": "/main/static/js/main.63b34835.chunk.js.map",
-    "runtime-main.js": "/main/static/js/runtime-main.51f10bae.js",
-    "runtime-main.js.map": "/main/static/js/runtime-main.51f10bae.js.map",
-    "static/js/2.1c922d4c.chunk.js": "/main/static/js/2.1c922d4c.chunk.js",
-    "static/js/2.1c922d4c.chunk.js.map": "/main/static/js/2.1c922d4c.chunk.js.map",
-    "index.html": "/main/index.html",
-    "precache-manifest.e7682eabcdb36d977c04c0b71fa769c7.js": "/main/precache-manifest.e7682eabcdb36d977c04c0b71fa769c7.js",
-    "service-worker.js": "/main/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/main/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1c922d4c.chunk.js.LICENSE.txt": "/main/static/js/2.1c922d4c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/main/static/media/logo.5d5d9eef.svg"
+    "main.css": "/prosto-chisto/static/css/main.5f361e03.chunk.css",
+    "main.js": "/prosto-chisto/static/js/main.261a7ed4.chunk.js",
+    "main.js.map": "/prosto-chisto/static/js/main.261a7ed4.chunk.js.map",
+    "runtime-main.js": "/prosto-chisto/static/js/runtime-main.0f8c0945.js",
+    "runtime-main.js.map": "/prosto-chisto/static/js/runtime-main.0f8c0945.js.map",
+    "static/js/2.1c922d4c.chunk.js": "/prosto-chisto/static/js/2.1c922d4c.chunk.js",
+    "static/js/2.1c922d4c.chunk.js.map": "/prosto-chisto/static/js/2.1c922d4c.chunk.js.map",
+    "index.html": "/prosto-chisto/index.html",
+    "precache-manifest.2a6957f0c80caba118373a51f24ca13b.js": "/prosto-chisto/precache-manifest.2a6957f0c80caba118373a51f24ca13b.js",
+    "service-worker.js": "/prosto-chisto/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/prosto-chisto/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1c922d4c.chunk.js.LICENSE.txt": "/prosto-chisto/static/js/2.1c922d4c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/prosto-chisto/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.51f10bae.js",
+    "static/js/runtime-main.0f8c0945.js",
     "static/js/2.1c922d4c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.63b34835.chunk.js"
+    "static/js/main.261a7ed4.chunk.js"
   ]
 }
