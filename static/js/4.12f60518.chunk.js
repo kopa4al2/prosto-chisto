@@ -1,0 +1,2 @@
+(this["webpackJsonpprosto-chisto"]=this["webpackJsonpprosto-chisto"]||[]).push([[4],{30:function(t,s,n){"use strict";n.r(s);var o=n(0),e=n.n(o);s.default=function(){return e.a.createElement("div",null,"HOME")}}}]);
+//# sourceMappingURL=4.12f60518.chunk.js.map
